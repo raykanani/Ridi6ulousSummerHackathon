@@ -1,6 +1,6 @@
 body {
-	/*background-color: #e4ddd3;*/
-	background-color: #444444;
+	background: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU9--KLKQOeenQ7vn6jtJ6u_FYwTxj505-fWJ7hxi3JlkiYacV') repeat;
+	/*background-color: #444444;*/
 	padding: 15px;
 	font-family: 'Lato', sans-serif;
 }
@@ -12,6 +12,7 @@ body {
 	border: 1px solid white;
 	height: 88vh;
 	overflow-y: hidden;
+	background-color: #444444;
 }
 
 .team-header {
