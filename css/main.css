@@ -94,6 +94,27 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+@media (min-width: 769px) {
+    .left {
+        position: fixed;
+        top: 0;
+        right: 50%;
+        bottom: 0;
+        left: 0;
+    }
+}
+
+@media (min-width: 769px) {
+    .right {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 30%;
+        overflow-y: scroll;
+    }
+}
+
 
 button {
   -webkit-user-select: none;
