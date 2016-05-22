@@ -102,6 +102,10 @@ textarea {
         bottom: 0;
         left: 0;
     }
+
+    .title.container {
+        padding: 80px 175px;
+    }
 }
 
 @media (min-width: 769px) {
